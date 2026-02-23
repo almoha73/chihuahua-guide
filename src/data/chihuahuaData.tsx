@@ -94,11 +94,11 @@ export const healthIssues: HealthIssue[] = [
 ];
 
 export const photoGallery: PhotoItem[] = [
-  { id: 1, url: "/images/gallery/fawn_short_hair.png", caption: "Chihuahua à poil court couleur fauve", category: "poil-court", alt: "Chihuahua fauve à poil court" },
-  { id: 2, url: "/images/gallery/chocolate_long_hair.png", caption: "Chihuahua à poil long chocolat et blanc", category: "poil-long", alt: "Chihuahua chocolat et blanc à poil long" },
+  { id: 1, url: "/images/fawn.png", caption: "Chihuahua à poil court couleur fauve", category: "poil-court", alt: "Chihuahua fauve à poil court" },
+  { id: 2, url: "/images/chocolate.png", caption: "Chihuahua à poil long chocolat et blanc", category: "poil-long", alt: "Chihuahua chocolat et blanc à poil long" },
   { id: 3, url: "/images/gallery/deer_head_black_tan.png", caption: "Chihuahua tête de cerf noir et feu", category: "tete-cerf", alt: "Chihuahua tête de cerf noir et feu" },
-  { id: 4, url: "/images/gallery/apple_head_cream.png", caption: "Chihuahua tête de pomme crème", category: "tete-pomme", alt: "Chihuahua tête de pomme couleur crème" },
-  { id: 5, url: "/images/gallery/puppy_8w.png", caption: "Chiot Chihuahua 8 semaines", category: "chiot", alt: "Chiot Chihuahua de 8 semaines" },
+  { id: 4, url: "/images/apple_head.png", caption: "Chihuahua tête de pomme crème", category: "tete-pomme", alt: "Chihuahua tête de pomme couleur crème" },
+  { id: 5, url: "/images/puppy.png", caption: "Chiot Chihuahua 8 semaines", category: "chiot", alt: "Chiot Chihuahua de 8 semaines" },
   { id: 6, url: "/images/gallery/senior_15y.png", caption: "Chihuahua senior 15 ans", category: "senior", alt: "Chihuahua âgé de 15 ans" },
   { id: 7, url: "/images/gallery/blue_merle.png", caption: "Chihuahua bleu merle", category: "couleur-rare", alt: "Chihuahua couleur bleu merle" },
   { id: 8, url: "/images/gallery/white_pure.png", caption: "Chihuahua blanc pur", category: "couleur-unie", alt: "Chihuahua entièrement blanc" },
